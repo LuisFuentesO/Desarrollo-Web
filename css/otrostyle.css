@@ -1,0 +1,21 @@
+
+body {
+  font-family:'Comic Sans MS', Helvetica, Arial, sans-serif;
+  overflow-x: hidden;
+}
+
+.btn-ttc,
+.btn-ttc:active {
+  color: green;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #007da7;
+}
+
+.btn-ttc {
+  background-repeat: repeat-x;
+  background-image: linear-gradient(top, #463E3F 0%, #007DA7 100%);
+}
+ 
+.btn {
+  border-radius: 10px;
+}
